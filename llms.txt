@@ -1,0 +1,29 @@
+# Abdullah Arshad — Full Stack Software Engineer (3+ Years Experience)
+
+> Full Stack Software Engineer specializing in C#, .NET 8, ASP.NET Core, SQL Server query optimization, microservices, and modern web applications.
+
+- Name: Abdullah Arshad
+- Experience: 3+ Years Professional Experience
+- Location: Lahore, Pakistan (Available Worldwide Remotely)
+- Email: abdullaharshad6756@gmail.com
+- Phone / WhatsApp: +92 332 6665102
+- GitHub: https://github.com/AbdullahArshad-bit
+- LinkedIn: https://www.linkedin.com/in/abdullah-arshad-5224622b4/
+
+## Career Trajectory
+1. Full Stack .NET Engineer at Devsinc (Jan 2025 – Present · Lahore, Pakistan)
+   - Microservices architecture, .NET 8 / ASP.NET Core Web API, Redis caching, RabbitMQ, Docker containerization.
+2. Software Engineer at NanoByte Technologies (June 2023 – Dec 2024 · Lahore, Pakistan)
+   - Enterprise Property Management System (PMS), 1,000+ residents in Dubai, 40% query optimization, N+1 problem elimination.
+3. Associate Software Engineer (Contract) at Global Client Solutions (Jan 2023 – May 2023 · Remote)
+   - SaaS platforms, Laravel, MySQL, payment gateway integrations.
+
+## Education
+- Bachelor of Science in Computer Science (BSCS)
+- Virtual University of Pakistan · Completed / Graduated (2021 – 2025)
+
+## Core Technical Skills
+- Backend: C#, .NET 8, ASP.NET Core Web API, ASP.NET MVC, Entity Framework Core, Dapper, LINQ, Microservices, CQRS, MediatR, Clean Architecture, SOLID
+- Databases & Caching: Microsoft SQL Server, Stored Procedures, T-SQL, Query Optimization, Indexing, Redis, PostgreSQL, MySQL, MongoDB
+- Cloud & DevOps: Docker, RabbitMQ, Azure App Services, CI/CD (GitHub Actions), Git, Postman, IIS Server, Nginx
+- Frontend: Modern JavaScript (ES6+), TypeScript, React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap 5, Redux

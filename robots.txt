@@ -1,0 +1,5 @@
+# robots.txt for https://abdullaharshad.dev/
+User-agent: *
+Allow: /
+
+Sitemap: https://abdullaharshad.dev/sitemap.xml
